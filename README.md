@@ -15,8 +15,8 @@ A full-stack recruitment platform with candidate & recruiter role workflows, rea
 ## 🗄 PostgreSQL Configuration
 
 - **Database Name**: `job_portal`
-- **Username**: `postgres`
-- **Password**: `12345`
+- **Username**: `your username`
+- **Password**: `your password`
 - **Host**: `localhost`
 - **Port**: `5432`
 
